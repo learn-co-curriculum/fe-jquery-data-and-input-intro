@@ -1,9 +1,4 @@
----
-language: none
-tags: javascript, libraries, jquery, data, val, input, validation, regex
-type: intro
-resources: 0
----
+
 
 ## jQuery Data & User Input
 
